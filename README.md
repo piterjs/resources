@@ -1,2 +1,2 @@
-# logo
+# PiterJS Logo
 PiterJS Logo
