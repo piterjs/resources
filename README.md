@@ -1,2 +1,3 @@
-# PiterJS Logo
-PiterJS Logo
+# PiterJS resources
+- Logo
+- Site
